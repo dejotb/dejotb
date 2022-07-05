@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
+
+![](https://github.com/dejotb/dejotb/blob/main/logo-new2.svg)
+
+
 ### 👋 Hello there,
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
