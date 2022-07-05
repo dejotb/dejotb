@@ -12,6 +12,8 @@ I’m Bartosz, a self-taught front-end developer. I like building responsive, us
 
 I build things for the web and I enjoy it!
 
+
+
 ## Skills
 
 - 💻 HTML / CSS / SCSS / JS
