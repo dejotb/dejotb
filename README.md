@@ -18,7 +18,6 @@ I build things for the web and I enjoy it!
 
 - 💻 HTML / CSS / SCSS / JS
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dejotb)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dejotb/dejotb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
