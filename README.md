@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-![I am GitHub Readme Generator's creator](https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="300")
+![I am GitHub Readme Generator's creator](https://github.com/dejotb/dejotb/blob/main/logo%20github.png")
 
 # Bartosz Kraszewski
 
