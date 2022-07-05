@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<img src="https://www.computerhope.com/cdn/media/logo-200-gray.png](https://github.com/dejotb/dejotb/blob/main/logo%20github.png)" width="600" />
+<img src="https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="600" />
 
 # 👋 Hello there,
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
