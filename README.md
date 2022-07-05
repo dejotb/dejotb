@@ -8,7 +8,7 @@
 ![](https://github.com/dejotb/dejotb/blob/main/logo-new2.svg)
 
 
-### 👋 Hello there,
+# 👋 Hello there,
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
 ## Skills
