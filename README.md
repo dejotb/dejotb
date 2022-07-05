@@ -6,7 +6,7 @@
 
 <div align='center'> <img src="https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="350" /></div>
 
-# Hi 👋
+# Hello 👋
 
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
