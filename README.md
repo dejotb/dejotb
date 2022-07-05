@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-<img src="https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="350" />
+<img src="https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="300" />
 
 # Bartosz Kraszewski
 
