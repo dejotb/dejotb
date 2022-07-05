@@ -6,9 +6,9 @@
 
 <img src="https://github.com/dejotb/dejotb/blob/main/logo%20github.png" width="400" />
 
-# 👋 Hello there,
+# Bartosz Kraszewski,
 
-I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
+Hi 👋 , I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
 I build things for the web and I enjoy it!
 
