@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-
-![](https://github.com/dejotb/dejotb/blob/main/logo-new2.svg)
+<img src='https://github.com/dejotb/dejotb/blob/main/logo-new2.svg' width="300" />
 
 
 # 👋 Hello there,
