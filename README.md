@@ -4,10 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-👋 Hello there,
+### 👋 Hello there,
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
+## Skills
 
+- 💻 HTML / CSS / SCSS / JS
 
 <!---
 dejotb/dejotb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
