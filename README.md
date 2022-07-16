@@ -10,7 +10,7 @@
 
 I’m Bartosz, a self-taught front-end developer. I like building responsive, user-friendly websites and web apps, that look visually appealing.
 
-I build things for the web and I enjoy it!
+
 
 
 
